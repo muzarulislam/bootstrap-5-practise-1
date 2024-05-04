@@ -1,0 +1,11 @@
+.caption-top-center {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+.card-jpg{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
